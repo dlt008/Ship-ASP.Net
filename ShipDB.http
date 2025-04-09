@@ -1,0 +1,6 @@
+@ShipDB_HostAddress = http://localhost:5134
+
+GET {{ShipDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
